@@ -1,0 +1,50 @@
+[Mon Jul 28 12:49:20 2025] [error] [client 123.45.67.89] Deprecated: Function mysql_connect() is deprecated in /var/www/html/db.php
+[Mon Jul 28 12:48:45 2025] [error] [client 5.135.183.146] PleskException: Invalid credentials for user 'admin'
+[Mon Jul 28 12:48:09 2025] [error] [client 92.184.100.22] Deprecated: Function mysql_connect() is deprecated in /var/www/html/db.php
+[Mon Jul 28 12:47:52 2025] [error] [client 203.0.113.77] Permission denied: Could not open /var/www/vhosts/example.com/htdocs/index.php
+[Mon Jul 28 12:47:16 2025] [error] [client 192.168.1.30] PHP Fatal error: Uncaught Exception: Database connection failed for user 'alice'
+[Mon Jul 28 12:46:43 2025] [error] [client 192.168.1.30] PleskException: Invalid credentials for user 'admin'
+[Mon Jul 28 12:45:55 2025] [error] [client 123.45.67.89] Suspicious script execution in /tmp/tmpXYZ.sh
+[Mon Jul 28 12:45:19 2025] [error] [client 203.0.113.77] PHP Fatal error: Uncaught Exception: Database connection failed for user 'alice'
+[Mon Jul 28 12:45:00 2025] [error] [client 203.0.113.77] Segmentation fault at address 0xdeadbeef
+[Mon Jul 28 12:44:15 2025] [error] [client 185.199.110.153] Warning: SQL Injection attempt blocked for user 'root'
+[Mon Jul 28 12:43:57 2025] [error] [client 192.168.1.30] Unauthorized access attempt detected from IP 203.0.113.77
+[Mon Jul 28 12:43:25 2025] [error] [client 185.199.110.153] Critical: Multiple failed login attempts detected for user 'bob'
+[Mon Jul 28 12:42:46 2025] [error] [client 123.45.67.89] Segmentation fault at address 0xdeadbeef
+[Mon Jul 28 12:42:18 2025] [error] [client 203.0.113.77] Permission denied: Could not open /var/www/vhosts/example.com/htdocs/index.php
+[Mon Jul 28 12:41:48 2025] [error] [client 5.135.183.146] Permission denied: Could not open /var/www/vhosts/example.com/htdocs/index.php
+[Mon Jul 28 12:40:53 2025] [error] [client 92.184.100.22] Deprecated: Function mysql_connect() is deprecated in /var/www/html/db.php
+[Mon Jul 28 12:40:31 2025] [error] [client 5.135.183.146] Deprecated: Function mysql_connect() is deprecated in /var/www/html/db.php
+[Mon Jul 28 12:40:20 2025] [error] [client 123.45.67.89] Deprecated: Function mysql_connect() is deprecated in /var/www/html/db.php
+[Mon Jul 28 12:40:10 2025] [error] [client 203.0.113.77] Kernel panic - not syncing: Fatal exception
+[Mon Jul 28 12:39:39 2025] [error] [client 92.184.100.22] Critical: Multiple failed login attempts detected for user 'bob'
+[Mon Jul 28 12:39:13 2025] [error] [client 92.184.100.22] Permission denied: Could not open /var/www/vhosts/example.com/htdocs/index.php
+[Mon Jul 28 12:38:17 2025] [error] [client 5.135.183.146] PleskException: Invalid credentials for user 'admin'
+[Mon Jul 28 12:37:39 2025] [error] [client 123.45.67.89] Critical: Multiple failed login attempts detected for user 'bob'
+[Mon Jul 28 12:37:05 2025] [error] [client 203.0.113.77] Permission denied: Could not open /var/www/vhosts/example.com/htdocs/index.php
+[Mon Jul 28 12:36:11 2025] [error] [client 5.135.183.146] Permission denied: Could not open /var/www/vhosts/example.com/htdocs/index.php
+[Mon Jul 28 12:35:13 2025] [error] [client 192.168.1.30] Kernel panic - not syncing: Fatal exception
+[Mon Jul 28 12:35:07 2025] [error] [client 92.184.100.22] Critical: Multiple failed login attempts detected for user 'bob'
+[Mon Jul 28 12:34:40 2025] [error] [client 192.168.1.30] Permission denied: Could not open /var/www/vhosts/example.com/htdocs/index.php
+[Mon Jul 28 12:34:32 2025] [error] [client 203.0.113.77] Warning: SQL Injection attempt blocked for user 'root'
+[Mon Jul 28 12:33:34 2025] [error] [client 5.135.183.146] Unauthorized access attempt detected from IP 203.0.113.77
+[Mon Jul 28 12:33:20 2025] [error] [client 185.199.110.153] Critical: Multiple failed login attempts detected for user 'bob'
+[Mon Jul 28 12:32:52 2025] [error] [client 123.45.67.89] PHP Fatal error: Uncaught Exception: Database connection failed for user 'alice'
+[Mon Jul 28 12:32:23 2025] [error] [client 92.184.100.22] PleskException: Invalid credentials for user 'admin'
+[Mon Jul 28 12:31:59 2025] [error] [client 5.135.183.146] PHP Fatal error: Uncaught Exception: Database connection failed for user 'alice'
+[Mon Jul 28 12:31:42 2025] [error] [client 203.0.113.77] Warning: SQL Injection attempt blocked for user 'root'
+[Mon Jul 28 12:31:07 2025] [error] [client 92.184.100.22] Deprecated: Function mysql_connect() is deprecated in /var/www/html/db.php
+[Mon Jul 28 12:30:55 2025] [error] [client 203.0.113.77] PleskException: Invalid credentials for user 'admin'
+[Mon Jul 28 12:30:30 2025] [error] [client 192.168.1.30] Unauthorized access attempt detected from IP 203.0.113.77
+[Mon Jul 28 12:29:32 2025] [error] [client 92.184.100.22] Segmentation fault at address 0xdeadbeef
+[Mon Jul 28 12:28:44 2025] [error] [client 92.184.100.22] Unauthorized access attempt detected from IP 203.0.113.77
+[Mon Jul 28 12:28:25 2025] [error] [client 92.184.100.22] Kernel panic - not syncing: Fatal exception
+[Mon Jul 28 12:27:40 2025] [error] [client 185.199.110.153] Kernel panic - not syncing: Fatal exception
+[Mon Jul 28 12:27:34 2025] [error] [client 123.45.67.89] PleskException: Invalid credentials for user 'admin'
+[Mon Jul 28 12:26:40 2025] [error] [client 92.184.100.22] Segmentation fault at address 0xdeadbeef
+[Mon Jul 28 12:26:09 2025] [error] [client 92.184.100.22] PleskException: Invalid credentials for user 'admin'
+[Mon Jul 28 12:25:21 2025] [error] [client 185.199.110.153] Permission denied: Could not open /var/www/vhosts/example.com/htdocs/index.php
+[Mon Jul 28 12:24:50 2025] [error] [client 185.199.110.153] Permission denied: Could not open /var/www/vhosts/example.com/htdocs/index.php
+[Mon Jul 28 12:24:33 2025] [error] [client 5.135.183.146] Unauthorized access attempt detected from IP 203.0.113.77
+[Mon Jul 28 12:23:54 2025] [error] [client 5.135.183.146] PleskException: Invalid credentials for user 'admin'
+[Mon Jul 28 12:23:11 2025] [error] [client 5.135.183.146] PleskException: Invalid credentials for user 'admin'

@@ -1,0 +1,100 @@
+Jul 28 13:15:49 firewall systemd[5076]: DEBUG: Started Session 123 of user client1
+Jul 28 13:15:49 webserver1 kernel[5285]: ERROR: Session opened for user client1
+Jul 28 13:15:49 dbserver nginx[2348]: WARNING: Permission denied while accessing /etc/shadow
+Jul 28 13:15:50 firewall kernel[585]: DEBUG: Started Session 123 of user user1
+Jul 28 13:15:50 webserver1 sshd[2340]: INFO: Session opened for user admin
+Jul 28 13:15:50 dbserver systemd[4932]: ERROR: Unauthorized access to root shell
+Jul 28 13:15:50 myhost nginx[1469]: INFO: Started Session 123 of user noreply
+Jul 28 13:15:50 dbserver systemd[4505]: WARNING: Accepted password for noreply from 10.0.0.1 port 22 ssh2
+Jul 28 13:15:50 myhost kernel[5597]: ERROR: Reloading configuration files
+Jul 28 13:15:50 myhost nginx[454]: INFO: Firewall allowed connection from 192.168.1.10 to port 443
+Jul 28 13:15:50 myhost cron[8453]: DEBUG: Permission denied while accessing /etc/shadow
+Jul 28 13:15:50 dbserver systemd[9670]: WARNING: Kernel panic - not syncing: Fatal exception
+Jul 28 13:15:50 firewall cron[7858]: ERROR: Malicious process detected: /tmp/malware.sh
+Jul 28 13:15:51 dbserver nginx[6030]: ERROR: Permission denied while accessing /etc/shadow
+Jul 28 13:15:51 myhost cron[2436]: INFO: Session opened for user client1
+Jul 28 13:15:51 myhost dockerd[954]: DEBUG: Malicious process detected: /tmp/malware.sh
+Jul 28 13:15:51 dbserver sshd[8843]: INFO: Brute-force attack detected from 192.168.1.10
+Jul 28 13:15:51 dbserver systemd[6804]: WARNING: User client1 logged out
+Jul 28 13:15:51 myhost sshd[4807]: DEBUG: Reloading configuration files
+Jul 28 13:15:51 firewall nginx[2590]: WARNING: Session opened for user noreply
+Jul 28 13:15:51 webserver1 systemd[1602]: INFO: Started Session 123 of user noreply
+Jul 28 13:15:51 firewall dockerd[1617]: WARNING: Permission denied while accessing /etc/shadow
+Jul 28 13:15:52 webserver1 cron[4723]: WARNING: Reloading configuration files
+Jul 28 13:15:52 myhost nginx[4834]: WARNING: Kernel panic - not syncing: Fatal exception
+Jul 28 13:15:52 webserver1 kernel[7685]: INFO: Reloading configuration files
+Jul 28 13:15:52 webserver1 cron[6444]: ERROR: Session opened for user admin
+Jul 28 13:15:52 webserver1 sshd[5524]: INFO: Kernel panic - not syncing: Fatal exception
+Jul 28 13:15:52 webserver1 dockerd[154]: INFO: User webmaster logged out
+Jul 28 13:15:52 dbserver systemd[8429]: INFO: Accepted password for admin from 123.45.67.89 port 22 ssh2
+Jul 28 13:15:52 webserver1 sshd[7901]: ERROR: Segmentation fault at address 0xdeadbeef
+Jul 28 13:15:52 myhost sshd[8578]: DEBUG: Firewall allowed connection from 192.168.1.10 to port 443
+Jul 28 13:15:52 firewall systemd[9821]: ERROR: Configuration file updated successfully
+Jul 28 13:15:53 myhost nginx[7675]: INFO: Unauthorized access to root shell
+Jul 28 13:15:53 firewall kernel[6222]: WARNING: Reloading configuration files
+Jul 28 13:15:53 dbserver systemd[212]: ERROR: Reloading configuration files
+Jul 28 13:15:53 webserver1 kernel[9924]: WARNING: Session opened for user admin
+Jul 28 13:15:53 webserver1 dockerd[8500]: ERROR: Multiple failed password attempts for webmaster from 123.45.67.89
+Jul 28 13:15:53 dbserver cron[5896]: INFO: Configuration file updated successfully
+Jul 28 13:15:53 dbserver nginx[6671]: ERROR: Brute-force attack detected from 203.0.113.42
+Jul 28 13:15:53 firewall kernel[7823]: DEBUG: Accepted password for noreply from 203.0.113.42 port 22 ssh2
+Jul 28 13:15:53 firewall systemd[5629]: ERROR: Configuration file updated successfully
+Jul 28 13:15:53 dbserver dockerd[7389]: INFO: Configuration file updated successfully
+Jul 28 13:15:54 myhost systemd[6371]: INFO: Session opened for user webmaster
+Jul 28 13:15:54 myhost dockerd[9998]: WARNING: Configuration file updated successfully
+Jul 28 13:15:54 myhost sshd[1919]: INFO: Session opened for user admin
+Jul 28 13:15:54 myhost systemd[3684]: DEBUG: Permission denied while accessing /etc/shadow
+Jul 28 13:15:54 webserver1 cron[781]: INFO: Permission denied while accessing /etc/shadow
+Jul 28 13:15:54 firewall sshd[674]: INFO: Session opened for user user1
+Jul 28 13:15:54 myhost cron[2252]: INFO: Malicious process detected: /tmp/malware.sh
+Jul 28 13:15:54 myhost kernel[5959]: ERROR: Permission denied while accessing /etc/shadow
+Jul 28 13:15:54 myhost systemd[8005]: WARNING: Started Session 123 of user client1
+Jul 28 13:15:55 myhost cron[7672]: DEBUG: Malicious process detected: /tmp/malware.sh
+Jul 28 13:15:55 dbserver dockerd[5008]: INFO: Session opened for user webmaster
+Jul 28 13:15:55 dbserver dockerd[6425]: INFO: Unauthorized access to root shell
+Jul 28 13:15:55 dbserver sshd[9841]: DEBUG: Brute-force attack detected from 123.45.67.89
+Jul 28 13:15:55 dbserver dockerd[6974]: WARNING: Multiple failed password attempts for webmaster from 123.45.67.89
+Jul 28 13:15:55 firewall kernel[2708]: ERROR: Session opened for user noreply
+Jul 28 13:15:55 dbserver nginx[273]: DEBUG: Permission denied while accessing /etc/shadow
+Jul 28 13:15:55 firewall dockerd[6520]: WARNING: User noreply logged out
+Jul 28 13:15:55 webserver1 sshd[2557]: WARNING: Session opened for user client1
+Jul 28 13:15:55 myhost systemd[2069]: WARNING: Accepted password for admin from 192.168.1.10 port 22 ssh2
+Jul 28 13:15:56 myhost dockerd[8965]: ERROR: Kernel panic - not syncing: Fatal exception
+Jul 28 13:15:56 dbserver dockerd[9464]: ERROR: Permission denied while accessing /etc/shadow
+Jul 28 13:15:56 firewall nginx[9790]: DEBUG: Kernel panic - not syncing: Fatal exception
+Jul 28 13:15:56 myhost systemd[1072]: INFO: Segmentation fault at address 0xdeadbeef
+Jul 28 13:15:56 myhost nginx[9462]: ERROR: Firewall allowed connection from 192.168.1.10 to port 443
+Jul 28 13:15:56 dbserver nginx[7929]: INFO: Firewall allowed connection from 203.0.113.42 to port 443
+Jul 28 13:15:56 webserver1 kernel[4889]: DEBUG: Segmentation fault at address 0xdeadbeef
+Jul 28 13:15:56 myhost cron[7351]: WARNING: Reloading configuration files
+Jul 28 13:15:56 myhost kernel[9463]: ERROR: Session opened for user admin
+Jul 28 13:15:57 webserver1 cron[8605]: DEBUG: Firewall allowed connection from 10.0.0.1 to port 443
+Jul 28 13:15:57 webserver1 nginx[8938]: INFO: Session opened for user admin
+Jul 28 13:15:57 webserver1 cron[8819]: INFO: Firewall allowed connection from 192.168.1.10 to port 443
+Jul 28 13:15:57 webserver1 cron[2417]: WARNING: Accepted password for webmaster from 123.45.67.89 port 22 ssh2
+Jul 28 13:15:57 webserver1 cron[6515]: DEBUG: Configuration file updated successfully
+Jul 28 13:15:57 dbserver sshd[9575]: WARNING: Session opened for user client1
+Jul 28 13:15:57 myhost cron[1663]: INFO: Permission denied while accessing /etc/shadow
+Jul 28 13:15:57 webserver1 nginx[8101]: ERROR: Accepted password for noreply from 192.168.1.10 port 22 ssh2
+Jul 28 13:15:57 firewall nginx[3967]: INFO: User user1 logged out
+Jul 28 13:15:57 firewall systemd[8060]: INFO: Brute-force attack detected from 123.45.67.89
+Jul 28 13:15:58 webserver1 kernel[3198]: DEBUG: Session opened for user webmaster
+Jul 28 13:15:58 webserver1 kernel[2336]: WARNING: Configuration file updated successfully
+Jul 28 13:15:58 dbserver dockerd[7325]: INFO: Started Session 123 of user admin
+Jul 28 13:15:58 myhost systemd[2829]: INFO: Accepted password for noreply from 10.0.0.1 port 22 ssh2
+Jul 28 13:15:58 webserver1 nginx[1991]: ERROR: Accepted password for user1 from 203.0.113.42 port 22 ssh2
+Jul 28 13:15:58 webserver1 dockerd[8832]: WARNING: Malicious process detected: /tmp/malware.sh
+Jul 28 13:15:58 myhost cron[8057]: WARNING: Accepted password for webmaster from 203.0.113.42 port 22 ssh2
+Jul 28 13:15:58 webserver1 sshd[6545]: INFO: Reloading configuration files
+Jul 28 13:15:58 webserver1 systemd[2720]: ERROR: Permission denied while accessing /etc/shadow
+Jul 28 13:15:58 dbserver dockerd[7337]: INFO: Accepted password for client1 from 123.45.67.89 port 22 ssh2
+Jul 28 13:15:59 webserver1 nginx[6247]: ERROR: Unauthorized access to root shell
+Jul 28 13:15:59 webserver1 kernel[6620]: ERROR: Permission denied while accessing /etc/shadow
+Jul 28 13:15:59 webserver1 sshd[1705]: INFO: Accepted password for webmaster from 192.168.1.10 port 22 ssh2
+Jul 28 13:15:59 firewall dockerd[5145]: DEBUG: User webmaster logged out
+Jul 28 13:15:59 dbserver kernel[3595]: ERROR: Started Session 123 of user admin
+Jul 28 13:15:59 myhost dockerd[6938]: WARNING: Started Session 123 of user admin
+Jul 28 13:15:59 webserver1 systemd[2195]: WARNING: Unauthorized access to root shell
+Jul 28 13:15:59 firewall kernel[8817]: INFO: Reloading configuration files
+Jul 28 13:15:59 webserver1 systemd[6493]: ERROR: Reloading configuration files
+Jul 28 13:15:59 dbserver systemd[6296]: INFO: Started Session 123 of user webmaster

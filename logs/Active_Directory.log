@@ -1,0 +1,62 @@
+timestamp,event_id,logon_type,username,domain,source_ip,hostname,log_level,log_type,message
+2025-07-28T11:24:52.815299,4769,2,webmaster,CORP.LOCAL,192.168.1.10,DC1.CORP.LOCAL,INFO,KERBEROS,Ticket Service délivré à webmaster
+2025-07-28T11:25:17.815299,4625,2,user1,CORP.LOCAL,192.168.1.10,DC1.CORP.LOCAL,WARN,AUTH,Échec de connexion pour l'utilisateur user1
+2025-07-28T11:25:36.815299,4624,,client1,CORP.LOCAL,203.0.113.42,DC1.CORP.LOCAL,INFO,AUTH,Connexion réussie pour l'utilisateur client1
+2025-07-28T11:26:00.815299,4769,3,webmaster,CORP.LOCAL,203.0.113.42,DC1.CORP.LOCAL,INFO,KERBEROS,Ticket Service délivré à webmaster
+2025-07-28T11:26:08.815299,4729,2,admin,CORP.LOCAL,10.0.0.1,DC1.CORP.LOCAL,INFO,GROUP_CHANGE,Suppression de admin d’un groupe
+2025-07-28T11:27:01.815299,4769,2,webmaster,CORP.LOCAL,203.0.113.42,DC1.CORP.LOCAL,INFO,KERBEROS,Ticket Service délivré à webmaster
+2025-07-28T11:27:11.815299,4624,3,admin,CORP.LOCAL,203.0.113.42,DC1.CORP.LOCAL,INFO,AUTH,Connexion réussie pour l'utilisateur admin
+2025-07-28T11:27:45.815299,4624,,user1,CORP.LOCAL,123.45.67.89,DC1.CORP.LOCAL,INFO,AUTH,Connexion réussie pour l'utilisateur user1
+2025-07-28T11:28:09.815299,4771,,admin,CORP.LOCAL,10.0.0.1,DC1.CORP.LOCAL,WARN,KERBEROS,Échec de pré-authentification pour admin
+2025-07-28T11:28:26.815299,4625,2,admin,CORP.LOCAL,123.45.67.89,DC1.CORP.LOCAL,WARN,AUTH,Échec de connexion pour l'utilisateur admin
+2025-07-28T11:28:48.815299,4624,2,user1,CORP.LOCAL,123.45.67.89,DC1.CORP.LOCAL,INFO,AUTH,Connexion réussie pour l'utilisateur user1
+2025-07-28T11:29:04.815299,4771,2,admin,CORP.LOCAL,203.0.113.42,DC1.CORP.LOCAL,WARN,KERBEROS,Échec de pré-authentification pour admin
+2025-07-28T11:29:10.815299,4625,3,admin,CORP.LOCAL,123.45.67.89,DC1.CORP.LOCAL,WARN,AUTH,Échec de connexion pour l'utilisateur admin
+2025-07-28T11:29:38.815299,4624,,webmaster,CORP.LOCAL,192.168.1.10,DC1.CORP.LOCAL,INFO,AUTH,Connexion réussie pour l'utilisateur webmaster
+2025-07-28T11:30:32.815299,4624,2,webmaster,CORP.LOCAL,123.45.67.89,DC1.CORP.LOCAL,INFO,AUTH,Connexion réussie pour l'utilisateur webmaster
+2025-07-28T11:30:54.815299,4771,3,webmaster,CORP.LOCAL,123.45.67.89,DC1.CORP.LOCAL,WARN,KERBEROS,Échec de pré-authentification pour webmaster
+2025-07-28T11:31:54.815299,4624,,noreply,CORP.LOCAL,192.168.1.10,DC1.CORP.LOCAL,INFO,AUTH,Connexion réussie pour l'utilisateur noreply
+2025-07-28T11:32:17.815299,4624,3,user1,CORP.LOCAL,203.0.113.42,DC1.CORP.LOCAL,INFO,AUTH,Connexion réussie pour l'utilisateur user1
+2025-07-28T11:32:34.815299,4624,3,client1,CORP.LOCAL,10.0.0.1,DC1.CORP.LOCAL,INFO,AUTH,Connexion réussie pour l'utilisateur client1
+2025-07-28T11:32:42.815299,4728,2,noreply,CORP.LOCAL,192.168.1.10,DC1.CORP.LOCAL,INFO,GROUP_CHANGE,Ajout de noreply à un groupe
+2025-07-28T11:32:48.815299,4771,3,admin,CORP.LOCAL,10.0.0.1,DC1.CORP.LOCAL,WARN,KERBEROS,Échec de pré-authentification pour admin
+2025-07-28T11:33:01.815299,4624,,user1,CORP.LOCAL,123.45.67.89,DC1.CORP.LOCAL,INFO,AUTH,Connexion réussie pour l'utilisateur user1
+2025-07-28T11:33:40.815299,4771,,admin,CORP.LOCAL,10.0.0.1,DC1.CORP.LOCAL,WARN,KERBEROS,Échec de pré-authentification pour admin
+2025-07-28T11:34:13.815299,4625,,user1,CORP.LOCAL,192.168.1.10,DC1.CORP.LOCAL,WARN,AUTH,Échec de connexion pour l'utilisateur user1
+2025-07-28T11:35:13.815299,4625,3,webmaster,CORP.LOCAL,10.0.0.1,DC1.CORP.LOCAL,WARN,AUTH,Échec de connexion pour l'utilisateur webmaster
+2025-07-28T11:36:09.815299,4769,3,admin,CORP.LOCAL,10.0.0.1,DC1.CORP.LOCAL,INFO,KERBEROS,Ticket Service délivré à admin
+2025-07-28T11:36:37.815299,4769,,admin,CORP.LOCAL,203.0.113.42,DC1.CORP.LOCAL,INFO,KERBEROS,Ticket Service délivré à admin
+2025-07-28T11:36:44.815299,4624,,webmaster,CORP.LOCAL,123.45.67.89,DC1.CORP.LOCAL,INFO,AUTH,Connexion réussie pour l'utilisateur webmaster
+2025-07-28T11:37:12.815299,4771,3,noreply,CORP.LOCAL,192.168.1.10,DC1.CORP.LOCAL,WARN,KERBEROS,Échec de pré-authentification pour noreply
+2025-07-28T11:37:39.815299,4769,3,admin,CORP.LOCAL,203.0.113.42,DC1.CORP.LOCAL,INFO,KERBEROS,Ticket Service délivré à admin
+2025-07-28T11:38:22.815299,4624,,webmaster,CORP.LOCAL,203.0.113.42,DC1.CORP.LOCAL,INFO,AUTH,Connexion réussie pour l'utilisateur webmaster
+2025-07-28T11:38:48.815299,4771,,client1,CORP.LOCAL,192.168.1.10,DC1.CORP.LOCAL,WARN,KERBEROS,Échec de pré-authentification pour client1
+2025-07-28T11:39:43.815299,4769,2,client1,CORP.LOCAL,203.0.113.42,DC1.CORP.LOCAL,INFO,KERBEROS,Ticket Service délivré à client1
+2025-07-28T11:40:26.815299,4769,2,user1,CORP.LOCAL,203.0.113.42,DC1.CORP.LOCAL,INFO,KERBEROS,Ticket Service délivré à user1
+2025-07-28T11:40:51.815299,4624,,user1,CORP.LOCAL,203.0.113.42,DC1.CORP.LOCAL,INFO,AUTH,Connexion réussie pour l'utilisateur user1
+2025-07-28T11:41:51.815299,4769,,webmaster,CORP.LOCAL,123.45.67.89,DC1.CORP.LOCAL,INFO,KERBEROS,Ticket Service délivré à webmaster
+2025-07-28T11:42:00.815299,4624,,client1,CORP.LOCAL,123.45.67.89,DC1.CORP.LOCAL,INFO,AUTH,Connexion réussie pour l'utilisateur client1
+2025-07-28T11:42:40.815299,4625,3,user1,CORP.LOCAL,203.0.113.42,DC1.CORP.LOCAL,WARN,AUTH,Échec de connexion pour l'utilisateur user1
+2025-07-28T11:43:39.815299,4625,,user1,CORP.LOCAL,192.168.1.10,DC1.CORP.LOCAL,WARN,AUTH,Échec de connexion pour l'utilisateur user1
+2025-07-28T11:44:15.815299,4624,2,noreply,CORP.LOCAL,10.0.0.1,DC1.CORP.LOCAL,INFO,AUTH,Connexion réussie pour l'utilisateur noreply
+2025-07-28T11:45:06.815299,4771,,user1,CORP.LOCAL,192.168.1.10,DC1.CORP.LOCAL,WARN,KERBEROS,Échec de pré-authentification pour user1
+2025-07-28T11:45:15.815299,4625,3,client1,CORP.LOCAL,123.45.67.89,DC1.CORP.LOCAL,WARN,AUTH,Échec de connexion pour l'utilisateur client1
+2025-07-28T11:46:07.815299,4624,3,user1,CORP.LOCAL,123.45.67.89,DC1.CORP.LOCAL,INFO,AUTH,Connexion réussie pour l'utilisateur user1
+2025-07-28T11:46:57.815299,4624,2,webmaster,CORP.LOCAL,10.0.0.1,DC1.CORP.LOCAL,INFO,AUTH,Connexion réussie pour l'utilisateur webmaster
+2025-07-28T11:47:48.815299,4624,2,webmaster,CORP.LOCAL,123.45.67.89,DC1.CORP.LOCAL,INFO,AUTH,Connexion réussie pour l'utilisateur webmaster
+2025-07-28T11:48:08.815299,4729,2,webmaster,CORP.LOCAL,123.45.67.89,DC1.CORP.LOCAL,INFO,GROUP_CHANGE,Suppression de webmaster d’un groupe
+2025-07-28T11:48:18.815299,4624,,user1,CORP.LOCAL,10.0.0.1,DC1.CORP.LOCAL,INFO,AUTH,Connexion réussie pour l'utilisateur user1
+2025-07-28T11:49:04.815299,4771,3,admin,CORP.LOCAL,192.168.1.10,DC1.CORP.LOCAL,WARN,KERBEROS,Échec de pré-authentification pour admin
+2025-07-28T11:49:12.815299,4771,3,client1,CORP.LOCAL,10.0.0.1,DC1.CORP.LOCAL,WARN,KERBEROS,Échec de pré-authentification pour client1
+2025-07-28T11:49:42.815299,4624,3,user1,CORP.LOCAL,10.0.0.1,DC1.CORP.LOCAL,INFO,AUTH,Connexion réussie pour l'utilisateur user1
+2025-07-28T11:50:05.815299,4625,3,user_brute,CORP.LOCAL,203.0.113.50,DC1.CORP.LOCAL,WARN,AUTH,Échec de connexion pour l'utilisateur user_brute
+2025-07-28T11:50:10.815299,4625,3,user_brute,CORP.LOCAL,203.0.113.50,DC1.CORP.LOCAL,WARN,AUTH,Échec de connexion pour l'utilisateur user_brute
+2025-07-28T11:50:15.815299,4625,3,user_brute,CORP.LOCAL,203.0.113.50,DC1.CORP.LOCAL,WARN,AUTH,Échec de connexion pour l'utilisateur user_brute
+2025-07-28T11:50:20.815299,4625,3,user_brute,CORP.LOCAL,203.0.113.50,DC1.CORP.LOCAL,WARN,AUTH,Échec de connexion pour l'utilisateur user_brute
+2025-07-28T11:50:25.815299,4625,3,user_brute,CORP.LOCAL,203.0.113.50,DC1.CORP.LOCAL,WARN,AUTH,Échec de connexion pour l'utilisateur user_brute
+2025-07-28T11:50:30.815299,4625,3,user_brute,CORP.LOCAL,203.0.113.50,DC1.CORP.LOCAL,WARN,AUTH,Échec de connexion pour l'utilisateur user_brute
+2025-07-28T11:50:35.815299,4625,3,user_brute,CORP.LOCAL,203.0.113.50,DC1.CORP.LOCAL,WARN,AUTH,Échec de connexion pour l'utilisateur user_brute
+2025-07-28T11:50:40.815299,4625,3,user_brute,CORP.LOCAL,203.0.113.50,DC1.CORP.LOCAL,WARN,AUTH,Échec de connexion pour l'utilisateur user_brute
+2025-07-28T11:50:45.815299,4625,3,user_brute,CORP.LOCAL,203.0.113.50,DC1.CORP.LOCAL,WARN,AUTH,Échec de connexion pour l'utilisateur user_brute
+2025-07-28T11:50:50.815299,4625,3,user_brute,CORP.LOCAL,203.0.113.50,DC1.CORP.LOCAL,WARN,AUTH,Échec de connexion pour l'utilisateur user_brute
+2025-07-28T11:50:55.815299,4624,3,user_brute,CORP.LOCAL,203.0.113.50,DC1.CORP.LOCAL,INFO,AUTH,Connexion réussie pour l'utilisateur user_brute

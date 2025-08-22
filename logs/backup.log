@@ -1,0 +1,100 @@
+[2025-07-28 13:09:33] WARNING: Backup skipped for domain 'shop.dev' by user 'eve' (no changes detected)
+[2025-07-28 13:09:22] CRITICAL: Backup corrupted for domain 'shop.dev' (checksum mismatch, user 'alice')
+[2025-07-28 13:08:52] INFO: Backup of domain 'example.com' completed successfully by user 'eve'.
+[2025-07-28 13:08:28] INFO: Backup of domain 'shop.dev' completed successfully by user 'eve'.
+[2025-07-28 13:07:51] INFO: Backup of domain 'test.org' completed successfully by user 'eve'.
+[2025-07-28 13:07:31] INFO: Backup of domain 'mon-site.fr' completed successfully by user 'bob'.
+[2025-07-28 13:07:07] WARNING: Backup skipped for domain 'test.org' by user 'eve' (no changes detected)
+[2025-07-28 13:06:44] WARNING: Backup skipped for domain 'shop.dev' by user 'eve' (no changes detected)
+[2025-07-28 13:06:15] ALERT: Unauthorized backup access attempt from IP 203.0.113.77 on domain 'shop.dev'
+[2025-07-28 13:05:57] WARNING: Backup skipped for domain 'test.org' by user 'bob' (no changes detected)
+[2025-07-28 13:05:36] INFO: Backup of domain 'test.org' completed successfully by user 'alice'.
+[2025-07-28 13:05:01] ERROR: Backup failed for domain 'mon-site.fr' by user 'eve' (Disk full)
+[2025-07-28 13:04:40] WARNING: Backup skipped for domain 'mon-site.fr' by user 'alice' (no changes detected)
+[2025-07-28 13:04:06] WARNING: Backup skipped for domain 'test.org' by user 'alice' (no changes detected)
+[2025-07-28 13:03:10] WARNING: Backup skipped for domain 'example.com' by user 'eve' (no changes detected)
+[2025-07-28 13:02:28] ERROR: Backup failed for domain 'shop.dev' by user 'eve' (Disk full)
+[2025-07-28 13:01:56] INFO: Backup of domain 'test.org' completed successfully by user 'eve'.
+[2025-07-28 13:01:29] CRITICAL: Backup corrupted for domain 'shop.dev' (checksum mismatch, user 'eve')
+[2025-07-28 13:01:10] ERROR: Backup aborted for domain 'shop.dev' by user 'alice' (unexpected I/O error)
+[2025-07-28 13:00:56] ERROR: Backup failed for domain 'shop.dev' by user 'eve' (Disk full)
+[2025-07-28 13:00:01] INFO: Backup of domain 'test.org' completed successfully by user 'alice'.
+[2025-07-28 12:59:26] INFO: Backup of domain 'test.org' completed successfully by user 'eve'.
+[2025-07-28 12:59:04] CRITICAL: Backup corrupted for domain 'example.com' (checksum mismatch, user 'bob')
+[2025-07-28 12:58:05] ERROR: Backup failed for domain 'test.org' by user 'bob' (Disk full)
+[2025-07-28 12:57:57] ERROR: Backup failed for domain 'test.org' by user 'eve' (Disk full)
+[2025-07-28 12:57:36] INFO: Backup of domain 'mon-site.fr' completed successfully by user 'eve'.
+[2025-07-28 12:56:36] ERROR: Backup failed for domain 'shop.dev' by user 'alice' (Disk full)
+[2025-07-28 12:55:58] WARNING: Backup skipped for domain 'test.org' by user 'eve' (no changes detected)
+[2025-07-28 12:55:35] WARNING: Backup skipped for domain 'example.com' by user 'eve' (no changes detected)
+[2025-07-28 12:54:45] CRITICAL: Backup corrupted for domain 'shop.dev' (checksum mismatch, user 'eve')
+[2025-07-28 12:54:26] INFO: Backup of domain 'example.com' completed successfully by user 'eve'.
+[2025-07-28 12:53:31] CRITICAL: Backup corrupted for domain 'shop.dev' (checksum mismatch, user 'bob')
+[2025-07-28 12:53:25] WARNING: Backup skipped for domain 'example.com' by user 'bob' (no changes detected)
+[2025-07-28 12:52:25] CRITICAL: Backup corrupted for domain 'example.com' (checksum mismatch, user 'alice')
+[2025-07-28 12:51:51] INFO: Backup of domain 'mon-site.fr' completed successfully by user 'bob'.
+[2025-07-28 12:51:05] WARNING: Backup skipped for domain 'test.org' by user 'eve' (no changes detected)
+[2025-07-28 12:50:53] WARNING: Backup skipped for domain 'example.com' by user 'eve' (no changes detected)
+[2025-07-28 12:49:56] ERROR: Backup failed for domain 'example.com' by user 'alice' (Disk full)
+[2025-07-28 12:48:56] CRITICAL: Backup corrupted for domain 'mon-site.fr' (checksum mismatch, user 'alice')
+[2025-07-28 12:48:35] INFO: Backup of domain 'test.org' completed successfully by user 'eve'.
+[2025-07-28 12:48:01] WARNING: Backup skipped for domain 'test.org' by user 'alice' (no changes detected)
+[2025-07-28 12:47:48] WARNING: Backup skipped for domain 'example.com' by user 'bob' (no changes detected)
+[2025-07-28 12:46:59] WARNING: Backup skipped for domain 'shop.dev' by user 'bob' (no changes detected)
+[2025-07-28 12:46:01] WARNING: Backup skipped for domain 'test.org' by user 'bob' (no changes detected)
+[2025-07-28 12:45:55] ALERT: Unauthorized backup access attempt from IP 203.0.113.77 on domain 'test.org'
+[2025-07-28 12:45:22] WARNING: Backup skipped for domain 'shop.dev' by user 'eve' (no changes detected)
+[2025-07-28 12:45:11] WARNING: Backup skipped for domain 'example.com' by user 'alice' (no changes detected)
+[2025-07-28 12:44:38] ALERT: Unauthorized backup access attempt from IP 203.0.113.77 on domain 'shop.dev'
+[2025-07-28 12:43:41] WARNING: Backup skipped for domain 'example.com' by user 'alice' (no changes detected)
+[2025-07-28 12:43:19] WARNING: Backup skipped for domain 'shop.dev' by user 'alice' (no changes detected)
+[2025-07-28 12:42:19] INFO: Backup of domain 'shop.dev' completed successfully by user 'alice'.
+[2025-07-28 12:41:48] WARNING: Backup skipped for domain 'mon-site.fr' by user 'bob' (no changes detected)
+[2025-07-28 12:41:27] INFO: Backup of domain 'shop.dev' completed successfully by user 'alice'.
+[2025-07-28 12:40:27] ALERT: Unauthorized backup access attempt from IP 203.0.113.77 on domain 'example.com'
+[2025-07-28 12:39:27] ERROR: Backup failed for domain 'test.org' by user 'eve' (Disk full)
+[2025-07-28 12:39:21] WARNING: Backup skipped for domain 'example.com' by user 'alice' (no changes detected)
+[2025-07-28 12:39:15] INFO: Backup of domain 'shop.dev' completed successfully by user 'bob'.
+[2025-07-28 12:38:57] INFO: Backup of domain 'test.org' completed successfully by user 'alice'.
+[2025-07-28 12:38:39] ALERT: Unauthorized backup access attempt from IP 203.0.113.77 on domain 'test.org'
+[2025-07-28 12:38:11] ERROR: Backup failed for domain 'shop.dev' by user 'alice' (Disk full)
+[2025-07-28 12:37:53] WARNING: Backup skipped for domain 'shop.dev' by user 'alice' (no changes detected)
+[2025-07-28 12:37:08] CRITICAL: Backup corrupted for domain 'example.com' (checksum mismatch, user 'eve')
+[2025-07-28 12:36:09] INFO: Backup of domain 'mon-site.fr' completed successfully by user 'alice'.
+[2025-07-28 12:35:57] ALERT: Unauthorized backup access attempt from IP 123.45.67.89 on domain 'example.com'
+[2025-07-28 12:35:14] ERROR: Backup failed for domain 'test.org' by user 'bob' (Disk full)
+[2025-07-28 12:34:39] ERROR: Backup failed for domain 'mon-site.fr' by user 'bob' (Disk full)
+[2025-07-28 12:34:09] WARNING: Backup skipped for domain 'example.com' by user 'eve' (no changes detected)
+[2025-07-28 12:33:38] WARNING: Backup skipped for domain 'test.org' by user 'eve' (no changes detected)
+[2025-07-28 12:33:11] ERROR: Backup failed for domain 'shop.dev' by user 'alice' (Disk full)
+[2025-07-28 12:32:42] ERROR: Backup aborted for domain 'example.com' by user 'eve' (unexpected I/O error)
+[2025-07-28 12:32:32] WARNING: Backup skipped for domain 'test.org' by user 'alice' (no changes detected)
+[2025-07-28 12:32:03] WARNING: Backup skipped for domain 'mon-site.fr' by user 'bob' (no changes detected)
+[2025-07-28 12:31:18] ALERT: Unauthorized backup access attempt from IP 203.0.113.77 on domain 'test.org'
+[2025-07-28 12:30:57] ERROR: Backup aborted for domain 'mon-site.fr' by user 'bob' (unexpected I/O error)
+[2025-07-28 12:30:23] INFO: Backup of domain 'example.com' completed successfully by user 'alice'.
+[2025-07-28 12:30:13] ERROR: Backup aborted for domain 'example.com' by user 'bob' (unexpected I/O error)
+[2025-07-28 12:29:32] INFO: Backup of domain 'test.org' completed successfully by user 'alice'.
+[2025-07-28 12:28:54] WARNING: Backup skipped for domain 'shop.dev' by user 'bob' (no changes detected)
+[2025-07-28 12:28:47] INFO: Backup of domain 'shop.dev' completed successfully by user 'eve'.
+[2025-07-28 12:28:31] WARNING: Backup skipped for domain 'shop.dev' by user 'bob' (no changes detected)
+[2025-07-28 12:27:51] ALERT: Unauthorized backup access attempt from IP 203.0.113.77 on domain 'mon-site.fr'
+[2025-07-28 12:27:00] INFO: Backup of domain 'mon-site.fr' completed successfully by user 'alice'.
+[2025-07-28 12:26:31] ERROR: Backup failed for domain 'test.org' by user 'bob' (Disk full)
+[2025-07-28 12:26:23] ALERT: Unauthorized backup access attempt from IP 123.45.67.89 on domain 'test.org'
+[2025-07-28 12:26:13] ERROR: Backup aborted for domain 'test.org' by user 'eve' (unexpected I/O error)
+[2025-07-28 12:25:15] INFO: Backup of domain 'example.com' completed successfully by user 'bob'.
+[2025-07-28 12:25:06] INFO: Backup of domain 'example.com' completed successfully by user 'eve'.
+[2025-07-28 12:24:48] ALERT: Unauthorized backup access attempt from IP 123.45.67.89 on domain 'mon-site.fr'
+[2025-07-28 12:24:27] INFO: Backup of domain 'test.org' completed successfully by user 'alice'.
+[2025-07-28 12:24:00] CRITICAL: Backup corrupted for domain 'shop.dev' (checksum mismatch, user 'eve')
+[2025-07-28 12:23:22] ERROR: Backup aborted for domain 'example.com' by user 'bob' (unexpected I/O error)
+[2025-07-28 12:23:02] WARNING: Backup skipped for domain 'example.com' by user 'bob' (no changes detected)
+[2025-07-28 12:22:51] ERROR: Backup failed for domain 'example.com' by user 'bob' (Disk full)
+[2025-07-28 12:22:12] ERROR: Backup failed for domain 'mon-site.fr' by user 'bob' (Disk full)
+[2025-07-28 12:22:03] INFO: Backup of domain 'example.com' completed successfully by user 'bob'.
+[2025-07-28 12:21:19] WARNING: Backup skipped for domain 'test.org' by user 'alice' (no changes detected)
+[2025-07-28 12:20:55] WARNING: Backup skipped for domain 'mon-site.fr' by user 'bob' (no changes detected)
+[2025-07-28 12:20:28] ALERT: Unauthorized backup access attempt from IP 123.45.67.89 on domain 'example.com'
+[2025-07-28 12:20:10] WARNING: Backup skipped for domain 'test.org' by user 'eve' (no changes detected)
+[2025-07-28 12:20:00] INFO: Backup of domain 'test.org' completed successfully by user 'alice'.
